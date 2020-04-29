@@ -1,0 +1,5 @@
+[done]non descriptive title
+all img missing alt attribute
+[done]non descriptive tags
+not all links work
+logo doesn't bring user back to home page
