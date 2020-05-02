@@ -8,7 +8,9 @@ A website that offers SEO consultation
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+https://jcorum11.github.io/horiseon/
 
 ## Contribution
 Made with ❤️ by Jake
+
+![horiseon website](./horiseon.png)
