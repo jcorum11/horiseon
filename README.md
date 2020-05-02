@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+# Code Refactor Project
 [Horiseon Deployed Application](https://jcorum11.github.io/horiseon/)
 
 ## Description:
