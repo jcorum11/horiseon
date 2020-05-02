@@ -1,7 +1,14 @@
-# Code Refactor Project
-[Horiseon Deployed Application](https://jcorum11.github.io/horiseon/)
+# Run Buddy
 
-## Description:
-UofU project to refactor code by consolidating CSS and make site more user friendly
+## Purpose
+A website that offers SEO consultation
 
-![Horiseon website](./horiseon.png)
+## Built With
+* HTML
+* CSS
+
+## Website
+https://lernantino.github.io/run-buddy/
+
+## Contribution
+Made with ❤️ by Jake
